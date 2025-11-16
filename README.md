@@ -109,11 +109,30 @@ while True:
 ## Output
 client
 
-<img width="650" height="348" alt="Screenshot 2025-11-09 202145" src="https://github.com/user-attachments/assets/2b3b3872-dec2-4a5f-9fba-3e36bd7da7f9" />
+ipconfig
+
+<img width="646" height="591" alt="image" src="https://github.com/user-attachments/assets/991ccd0c-0a02-4801-ba89-9a74151ec3cb" />
+
+ping www.google.com
+
+<img width="610" height="327" alt="image" src="https://github.com/user-attachments/assets/1c70e9de-4f8f-45ff-8465-4a8bb5d258f1" />
+
+nslookup www.google.com
+
+<img width="422" height="259" alt="image" src="https://github.com/user-attachments/assets/cd5f9ec0-db42-46c1-81a3-f450e0ad709a" />
+
+tracert / traceroute www.google.com
+
+<img width="639" height="392" alt="image" src="https://github.com/user-attachments/assets/9ce3d6b4-37da-4b53-8c0c-ed68267e2da6" />
+
+exit
+
+<img width="644" height="52" alt="image" src="https://github.com/user-attachments/assets/5a354eb0-9735-4515-957b-a81a419601e8" />
+
 
 server
 
-<img width="688" height="333" alt="Screenshot 2025-11-09 202156" src="https://github.com/user-attachments/assets/ef686225-9957-42b1-8737-9fc8298437b3" />
+<img width="660" height="240" alt="image" src="https://github.com/user-attachments/assets/9b8ea018-67f7-4ab6-aa89-ae5eeefebe06" />
 
 
 ## Result
